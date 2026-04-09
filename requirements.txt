@@ -1,5 +1,5 @@
 mcp>=1.9.4
-ynab==0.1.0
+ynab==1.0.1
 pydantic
 pydantic-settings
 pytest>=7.0.0
